@@ -17,12 +17,12 @@ This project showcases the original data model and the final data model after pe
 ## Original Data Model
 This is the data model as it was provided to us:
 
-![Original Data Model](https://github.com/chowira/Project_modulo_2/blob/main/diagrama1.PNG)
+![Original Data Model](https://github.com/chowira/Project_modulo_2/blob/main/image/diagrama1.PNG)
 
 ## Transformed Data Model
 This is the data model after performing transformations and removing unused tables:
 
-![Transformed Data Model](https://github.com/chowira/Project_modulo_2/blob/main/diagrama2.PNG)
+![Transformed Data Model](https://github.com/chowira/Project_modulo_2/blob/main/image/diagrama2.PNG)
 
 ## Dashboard Mockup
 This is the mockup of the dashboard:
