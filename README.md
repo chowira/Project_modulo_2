@@ -11,7 +11,7 @@
 
 ## Data Models Project
 
-# Introduction
+### Introduction
 This project showcases the original data model and the final data model after performing transformations and removing unused tables.
 
 ## Original Data Model
