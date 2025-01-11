@@ -27,9 +27,9 @@ This is the data model after performing transformations and removing unused tabl
 ## Dashboard Mockup
 This is the mockup of the dashboard:
 
-![Dashboard Mockup1](https://github.com/chowira/Project_modulo_2/blob/main/maqueta_1.PNG)
+![Dashboard Mockup1](https://github.com/chowira/Project_modulo_2/blob/main/image/maqueta_1.PNG)
 
-![Dashboard Mockup2](https://github.com/chowira/Project_modulo_2/blob/main/maqueta2.PNG)
+![Dashboard Mockup2](https://github.com/chowira/Project_modulo_2/blob/main/image/maqueta2.PNG)
 
 ## Data Loading and Transformation
 The data was loaded from CSV files into Power BI. Here are the steps we followed:
@@ -43,7 +43,7 @@ The data was loaded from CSV files into Power BI. Here are the steps we followed
 ## Architecture Diagram
 This is the architecture diagram:
 
-![Architecture Diagram](https://github.com/chowira/Project_modulo_2/blob/main/diagrama_de_datos.PNG)
+![Architecture Diagram](https://github.com/chowira/Project_modulo_2/blob/main/image/diagrama_de_datos.PNG)
 
 ## Conclusion
 This README provides a clear view of how the data model has been transformed from its original state to its final, optimized state for use in the project.
